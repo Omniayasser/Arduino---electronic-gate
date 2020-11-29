@@ -36,8 +36,8 @@ it will start also by if condition ( counter <=1) and if it is true it will read
 
 
 ## Tasks:
-1. **Connecting the components to the breadboard & arduino:** Fady Mohsen (Simulator "Tinkercad") - Omnia Yasser (Hardware Components "Kits")
-2. **Code:** Fady Mohsen (Functions + Buzzer) - Omnia Yasser (Photoresistor + Push Button)
+1. **Connecting the components to the breadboard & arduino:** Fady Mohsen (Simulator "Tinkercad") - Omnia Yasser (Hardware Components).
+2. **Code:** Fady Mohsen (Functions + Buzzer) - Omnia Yasser (Photoresistor + Push Button).
 
 
 ## Self Learning:
